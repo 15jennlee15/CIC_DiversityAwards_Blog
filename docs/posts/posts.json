@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-05-28-ellen-huang/",
+    "title": "APA Division 45 Research Conference",
+    "description": "5th Biennial APA Division 45 Research Conference",
+    "author": [
+      {
+        "name": "Ellen Huang",
+        "url": {}
+      }
+    ],
+    "date": "2019-05-28",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-05-28T15:37:01-07:00"
+  },
+  {
     "path": "posts/2019-05-28-foong-yan-lee/",
     "title": "Symposium Highlighting Evidence-Based Interventions for Addressing the Underrepresentation of Women in STEM",
     "description": "A short description of the post.",
@@ -58,20 +73,5 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-05-28T15:38:36-07:00"
-  },
-  {
-    "path": "posts/2019-05-28-ellen-huang/",
-    "title": "APA Division 45 Research Conference",
-    "description": "5th Biennial APA Division 45 Research Conference",
-    "author": [
-      {
-        "name": "Ellen Huang",
-        "url": {}
-      }
-    ],
-    "date": "2019-05-28",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-05-28T15:37:01-07:00"
   }
 ]
