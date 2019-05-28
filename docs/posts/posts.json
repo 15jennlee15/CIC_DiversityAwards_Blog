@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-05-28-foong-yan-lee/",
+    "title": "Symposium Highlighting Evidence-Based Interventions for Addressing the Underrepresentation of Women in STEM",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Foong Yan LEE",
+        "url": {}
+      }
+    ],
+    "date": "2019-05-28",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-05-28T15:26:53-07:00"
+  },
+  {
     "path": "posts/2019-05-28-grace-binion/",
     "title": "Society for the Improvement of Psychological Science (SIPS) - Diversity Hackathon",
     "description": "SIPS Summer 2018",
@@ -13,6 +28,21 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-05-28T15:16:19-07:00"
+  },
+  {
+    "path": "posts/2019-05-28-karlena-ochoa/",
+    "title": "Conceptualizing and measuring culture, context, race and ethnicity: A focus on science, ethics, and collaboration in the Spirit of 2044",
+    "description": "Preconference held at the Society for Research in Child Development Conference March 2018",
+    "author": [
+      {
+        "name": "Karlena Ochoa",
+        "url": {}
+      }
+    ],
+    "date": "2019-05-28",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-05-28T15:30:35-07:00"
   },
   {
     "path": "posts/welcome/",

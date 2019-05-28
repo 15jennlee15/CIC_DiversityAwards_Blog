@@ -1,24 +1,23 @@
 ---
 title: "Conceptualizing and measuring culture, context, race and ethnicity: A focus on science, ethics, and collaboration in the Spirit of 2044"
 description: |
-  Preconference held at Society for Research Development (SRCD) conference March 2019
+  Preconference held at the Society for Research in Child Development Conference March 2018
 author:
-  name: Karlena Ochoa
-  email: kochoa@uoregon.edu
-...  
+  - name: Karlena Ochoa
+    email: kochoa@uoregon.edu
 date: 05-28-2019
-
+output:
+  distill::distill_article:
+    self_contained: false
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-CIC Blurb 
 I attended “Conceptualizing and measuring culture, context, race and ethnicity: A focus on science, ethics, and collaboration in the Spirit of 2044” held by Society for Research in Child Development (SRCD) in March 2019. One of the goals of the preconference was to discuss how to best conceptualize race and ethnicity (specifically “minority” populations) as the United States continues to diversify.
 
 The following graphs were presented showing that minority populations are increasing, yet racial wealth inequality continues to be evident in the U.S. Gabby Galeano discussed that the U.S. will be a majority-minority country by 2044 and commented on the continued need for research on minority populations. 
-
 
 ![](/Users/jennlewis/Dropbox/CIC/CIC_DiversityAwards_Blog/images/KOchoa1.png)
 
@@ -28,4 +27,5 @@ The following graphs were presented showing that minority populations are increa
      
 One of the breakout sessions that I attended focused on the importance of ethnic-racial identity constructs on diverse populations. Much of the conversation focused on policy and intervention. One intervention discussed was EMBRace which focuses on racial socialization (Anderson, McKenny, & Stevenson, 2018). EMBRace stands for Engaging, Managing, and Bonding through Race (EMBRace) and can has been used to reduce racial stress for Black adolescents and their families. This is just one of the many intervention techniques discussed. 
 Another topic that was evident throughout the conference was the need for culturally component clinicians for research and intervention work. It brings the question to the table, “Who has the authority to have these conversations with families?”.  Many people feel that graduate students, including the ones at our university, aren’t getting enough diversity training in graduate school and this is a significant deficit. Further, this training needs to start at a higher level so graduate students can be appropriately trained. Discussion facilitators emphasized that there should be explicit guidelines stating what type of diversity training is include in your graduate program, and if there’s not, we shouldn’t be afraid to bring them up! 
+
 
