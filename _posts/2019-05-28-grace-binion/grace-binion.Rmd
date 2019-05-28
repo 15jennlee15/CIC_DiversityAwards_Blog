@@ -4,7 +4,7 @@ description: |
   SIPS Summer 2018 
 author:
   - name: Grace Binion
-    email: ghicks@uoregon.edu
+    email: ghicks7@uoregon.edu
 date: 05-28-2019
 output:
   distill::distill_article:
