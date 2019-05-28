@@ -1,0 +1,36 @@
+---
+title: "APA Division 45 Research Conference"
+description: |
+  5th Biennial APA Division 45 Research Conference
+  
+author:
+  - name: Ellen Huang
+    email: ellenh@uoregon.edu
+date: 05-28-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+With CIC Diversity Funds, I attended the 5th Biennial APA Division 45 Research Conference. The mission of Division 45 is to “advance psychology as a science and to promote public welfare through research, to apply research findings towards addressing ethnic minority issues, and to encourage professional relationships among psychologists with these interests” (Division 45, 2019). The conference showcased these research findings on ethnic minority issues, such as health disparities, cultural adaptations, how to recruit/keep ethnic minorities in studies and in psychology in general, etc. The Div 45 conference is held every other year, in the summer time. The format of the conference includes: talks, posters, seminars, and panels.
+
+I enjoyed my experience at this conference very much and am so appreciative I got to attend. Being in a pre-dominantly White department with very little diversity research, it feels extremely isolating. It was amazing to be surrounded by colleagues and mentors who are so passionate and excited about diversity research, and are actually doing it. 
+
+I attended three talks: 
+
+1) Using Psychology to Impact Public Policy: The Role of Psychologists of Color;
+
+2) The Study of Microaggressions: Where Are We and Where Do We Need to Go?; and
+
+3) Innovative Strategies in Health Disparities. 
+
+For the first talk, panelists discussed how their experiences as ethnic minorities impacts them, their research, and how it drove them to get involved in public policy. For example, Dr. Germine Awad, whose research focuses on Americans of Middle East and North African descent, shared how her research helped policy discussions in categorizing this population within the 2020 Census. The panelists also acknowledged that as psychologists of color, we need to be willing to engage and drive these conversations about improving people of color’s health and well-being. For the second talk, panelists discussed their experiences and research with microaggressions. They also discussed the criticisms of microaggressions (i.e., **Lilienfeld’s 2017 article titled “Microaggressions: Strong Claims, Inadequate Evidence”**). The final talk I attended discussed strategies in recruiting and keeping people of color in research studies. Many of the strategies shared are strategies that I felt like many diversity researchers already do, although I appreciated the validation that these are good strategies. Some of these strategies include: adapting materials to be language-matched and culturally relatable and having members on your research team be matched ethnically to the population you are trying to study. One point that was raised is that recruiting people of color in research studies is extremely time-consuming and hard—and that this point is often lost on people who do not actively recruit people of color into their research studies. Researchers often have to establish trust and a relationship with communities before they are even allowed to recruit. This time and effort should not be overlooked in how valuable it is.
+
+Some recommendations for our department: 1) hire more faculty of color. We will not get more students of color, regardless of research topic, until we have more faculty of color. 2) For faculty of color who do diversity research, they need as much support as they can get. Recruitment of people of color into research studies take much more time, energy, and effort than recruiting White participants. This relationship and trust researchers build with communities of color should not be overlooked and instead should be greatly valued and appreciated.
+
+
+

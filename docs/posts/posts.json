@@ -42,7 +42,7 @@
     "date": "2019-05-28",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-05-28T15:30:35-07:00"
+    "last_modified": "2019-05-28T15:31:52-07:00"
   },
   {
     "path": "posts/welcome/",
@@ -58,5 +58,20 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-05-28T14:18:28-07:00"
+  },
+  {
+    "path": "posts/2019-05-28-ellen-huang/",
+    "title": "APA Division 45 Research Conference",
+    "description": "5th Biennial APA Division 45 Research Conference",
+    "author": [
+      {
+        "name": "Ellen Huang",
+        "url": {}
+      }
+    ],
+    "date": "2019-05-28",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-05-28T15:37:01-07:00"
   }
 ]
