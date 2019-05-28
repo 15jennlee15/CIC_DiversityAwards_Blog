@@ -50,14 +50,14 @@
     "description": "Welcome to our new blog, CIC Diversity Awards. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Committee for an Inclusive Community",
+        "url": {}
       }
     ],
     "date": "2019-05-28",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-05-28T14:18:28-07:00"
+    "last_modified": "2019-05-28T15:38:36-07:00"
   },
   {
     "path": "posts/2019-05-28-ellen-huang/",
