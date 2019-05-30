@@ -13,19 +13,23 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+library(here)
 ```
 
 I attended “Conceptualizing and measuring culture, context, race and ethnicity: A focus on science, ethics, and collaboration in the Spirit of 2044” held by Society for Research in Child Development (SRCD) in March 2019. One of the goals of the preconference was to discuss how to best conceptualize race and ethnicity (specifically “minority” populations) as the United States continues to diversify.
 
 The following graphs were presented showing that minority populations are increasing, yet racial wealth inequality continues to be evident in the U.S. Gabby Galeano discussed that the U.S. will be a majority-minority country by 2044 and commented on the continued need for research on minority populations. 
 
-![](/Users/jennlewis/Dropbox/CIC/CIC_DiversityAwards_Blog/images/KOchoa1.png)
+![](images/KOchoa1.png){width=50%}![](images/Ochoa1.png){width=50%}
+
+
 https://www.pewresearch.org/fact-tank/2016/06/23/its-official-minority-babies-are-the-majority-among-the-nations-infants-but-only-just/ft_16-06-23_censusmajorityminority_trend/
 
-![](/Users/jennlewis/Dropbox/CIC/CIC_DiversityAwards_Blog/images/Ochoa1.png)
+
 https://www.pewresearch.org/fact-tank/2016/06/23/its-official-minority-babies-are-the-majority-among-the-nations-infants-but-only-just/ft_16-06-23_censusmajorityminority_agegroups/
 
-![](/Users/jennlewis/Dropbox/CIC/CIC_DiversityAwards_Blog/images/KOchoa2.png)
+![](images/KOchoa2.png)
+
 https://www.forbes.com/sites/niallmccarthy/2017/09/14/racial-wealth-inequality-in-the-u-s-is-rampant-infographic/#57454c4534e8
 
 
