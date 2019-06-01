@@ -15,6 +15,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+![](images/EH.jpg){width=40%}
 
 With CIC Diversity Funds, I attended the 5th Biennial APA Division 45 Research Conference. The mission of Division 45 is to “advance psychology as a science and to promote public welfare through research, to apply research findings towards addressing ethnic minority issues, and to encourage professional relationships among psychologists with these interests” (Division 45, 2019). The conference showcased these research findings on ethnic minority issues, such as health disparities, cultural adaptations, how to recruit/keep ethnic minorities in studies and in psychology in general, etc. The Div 45 conference is held every other year, in the summer time. The format of the conference includes: talks, posters, seminars, and panels. See more at their website: http://division45.org/
 

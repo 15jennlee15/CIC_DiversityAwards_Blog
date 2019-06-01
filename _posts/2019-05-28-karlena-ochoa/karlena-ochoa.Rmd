@@ -15,6 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 library(here)
 ```
+![](images/KO.jpg){width=50%}
 
 I attended “Conceptualizing and measuring culture, context, race and ethnicity: A focus on science, ethics, and collaboration in the Spirit of 2044” held by Society for Research in Child Development (SRCD) in March 2019. One of the goals of the preconference was to discuss how to best conceptualize race and ethnicity (specifically “minority” populations) as the United States continues to diversify.
 

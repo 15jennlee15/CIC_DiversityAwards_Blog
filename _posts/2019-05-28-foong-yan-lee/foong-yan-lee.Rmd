@@ -14,7 +14,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
+![](images/FYL.jpg){width=30%}
 
 The National Academy of Sciences has been working on improving the underrepresentation of women in the field of STEM. This project has been running for 18 months by ad hoc committee. The recent symposium on 11 March 2019 was aimed to identify institutional barriers that stifle the representation of women in this field. The agenda was made up of four main sessions: Beyond Bias Panel, Family Friendly Policies, Recruitment, Retention and Advancement and National Programs. 
 

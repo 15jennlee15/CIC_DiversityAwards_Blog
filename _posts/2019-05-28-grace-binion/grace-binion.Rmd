@@ -14,7 +14,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
+![](images/GBinion.jpg){width=50%}
 
 
   I received CIC Diversity Funds to support travel to the third annual meeting of the Society for the Improvement of Psychological Science (SIPS) during the Summer of 2018. SIPS does not follow a traditional conference format. Rather, participants elect to attend workshops designed to teach a discrete skill (e.g. power analysis for specific models) and participate in hackathons (designed to generate deliverables related to a problem or dilemma in psychological research). Conference days typically run 8am-4pm with participants able to move fluidly between workshops and hackathons on various topics as they see fit. CIC Funds supported my participation in the working group and hackathon on Diversity and Inclusivity throughout the three conference days. 
