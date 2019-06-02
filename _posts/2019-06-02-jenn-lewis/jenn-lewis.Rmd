@@ -1,0 +1,62 @@
+---
+title: "SRCD Conceptualizing and measuring culture, context, race and ethnicity preconferencec- An emphasis on Intersectionality"
+description: |
+  A discussion on intersectionality beyond multiple identities.
+author:
+  - name: Jenn Lewis
+    email: jlewis5@uoregon.edu
+date: 06-02-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I attended the preconference “Conceptualizing and measuring culture, context, race and ethnicity: A focus on science, ethics, and collaboration in the Spirit of 2044” held by Society for Research in Child Development (SRCD) in March 2019.
+
+
+In one of the breakout sessions I attended we discussed Intersectionality.  One of the first discussion points of the session was how academic fields often define intersectionality.  When a research question examines the intersections of identity, this is often thought of as intersectionality; however, this discussion emphasized the point that unless we are examining oppressions, this really isn't intersectionality. That is, we are really doing a disservice to the term intersectionality if we focus on the shallow concepts of identity and representation and don't dive deeper into the structural and systemic questions about discrimination and inequality. 
+
+As an example, if we treat black women as purely black or purely women, we are failing to capture or acknowledge specific challenges that come from being both black and a woman. Without examining the intersection of these two identities together we are not capturing the unique oppressions that black women experience.
+
+Much of the research and theory of intersectionality has come out of Black women scholarship and the discussion around critical race theory.  The term intersectionality was coined in 1989 by professor Kimberlé Crenshaw to describe how race, class, gender, and other individual characteristics “intersect” with one another and overlap. https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1052&context=uclf
+At around this same time Patricia Hill published her book "Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment" which also began novel discussions on the reconceptualization of race, gender, and class, as interlocking systems of oppression, furthering the understanding of intersectionality as a meaningful way of describing unique experiences of groups. This term really proliferated as the recognition and discussion around how laws can be inheretently racist or otherwise discriminatory came to be. This term didn't fully take off until around 2015 when it was added to the Oxford dictionary and became a prominent movement in the Women's March in 2017
+
+Fast forward to now and the field has drifted in this definition and intention behind intersectionality.  In a recent special issue of the Journal of Counseling Psychology, Grzanka and colleagues (2017) discuss how the field has drifted and makes a call to "return to the roots" of intersectionality.  
+https://www.researchgate.net/publication/318990301_Intersectionality_Research_in_Counseling_Psychology
+
+I highly recommend reading this article as a whole, however, I want to highlight the discussion on guidelines of intersectionality that are summarized from Moradi and Grzanka (2017).  Guidelines include:
+
+- Reading and citing original and contemporary scholarship on intersectionality from women of color scholars and activists
+
+- Pursuing clarity, transparency and transformation around the theory of knowledge and methods and values of intersectionality
+
+- Engaging in intersectional analysis for understanding all people and for understanding privilege and oppression
+
+- Integrating and expanding theories and measures to capture a fuller breadth and depth of people's experiences
+
+- Abandoning the use of multiple-identities language as a proxy for intersectional analysis
+
+- Engaging intersectional analysis throughout the research process
+
+- Situating the goals of transforming power dynamics and systems of inequality as central rather than tangential to research, training, and practice.
+
+In terms of research practices, traditional approaches to data analysis may not best capture the experiences of intersectionality.  Growing interest in person-centered analytic techniques (i.e. Latent Class/Profile Analysis, Latent Growth Mixture Modeling, and Group-Based Trajectory Modeling) are being pursued as ways to capture how multiple systems of oppression may be uniquely experienced across individuals and potential outcomes associated with those profiles.  Furthermore, an emphasis on the continued need for qualitative data was made.  Privileging participants' voices in research captures experiences that we have yet to quantify and standardize is traditional measures and therefore often fail to capture in our conclusions and understanding of experience.
+
+Below are further resources on this topic and related topics:
+
+  Davis Tribble, B. L., Allen, S. H., Hart, J. R., Francois, T. S., & Smith-Bynum, M. A. (2019). “No [Right] Way to Be a Black Woman”: Exploring Gendered Racial Socialization Among Black Women. Psychology of Women Quarterly. https://doi.org/10.1177/0361684318825439
+
+Seaton, Eleanor & Gee, Gilbert & Neblett, Enrique & Spanierman, Lisa. (2018). New directions for racial discrimination research as inspired by the integrative model. American Psychologist. 73. 768-780. 10.1037/amp0000315.
+https://www.researchgate.net/publication/327483637_New_directions_for_racial_discrimination_research_as_inspired_by_the_integrative_model
+
+Santos, C. E., & Toomey, R. B. (2018). Integrating an intersectionality lens in theory and research in developmental science. New Directions for Child and Adolescent Development. Advance online publication. doi: 10.1002/cad.2024
+
+Santos, C. E., & Toomey, R. B. (Eds.). (in press). Envisioning the integration of an intersectionality lens in developmental science. [Special issue]. New Directions for Child and Adolescent Development.
+
+
+
+
